@@ -44,4 +44,4 @@
   #endif
 #endif
 
-#include "pins_SANGUINOLOLU_12.h" // ... SANGUINOLOLU_11
+#include "pins_SANGUINOLOLU_12.h"
